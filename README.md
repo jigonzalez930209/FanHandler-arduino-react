@@ -22,7 +22,7 @@ To install and run the FanHandler Arduino React project, follow these steps:
     -   Once the code was upload to the esp32 the library `WiFiManager` take the control and create access point to connect a device to set the credentials of your wifi network.
     -   After completing the last task, you will be able to access the created server at the local IP shown on the serial monitor. 
 
-For detailed installation instructions, please refer to the [documentation]().
+For detailed installation instructions, please refer to the [documentation](https://github.com/jigonzalez930209/FanHandler-arduino-react/blob/main/README.md).
 
 ## Tegnologies
 - PlatformIO IDE to handle esp32 project 
@@ -30,8 +30,8 @@ For detailed installation instructions, please refer to the [documentation]().
 
 ## Contributing
 
-Contributions to the FanHandler Arduino React project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+Contributions to the FanHandler Arduino React project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository. [-->>](https://github.com/jigonzalez930209/FanHandler-arduino-react/issues) 
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [GNU License](https://github.com/jigonzalez930209/FanHandler-arduino-react/blob/main/LICENSE).
