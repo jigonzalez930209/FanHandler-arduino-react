@@ -4,9 +4,7 @@ The FanHandler Arduino React project combines Arduino and React to create a syst
 
 ## Features
 
-
-https://github.com/jigonzalez930209/FanHandler-arduino-react/assets/56707603/663229d4-0672-439c-9439-ed814e5b610b
-
+https://github.com/jigonzalez930209/FanHandler-arduino-react/assets/56707603/d9654432-f2e5-4ee9-b0c4-dfbd71fc2745
 
 
 - Fan speed adjustment
