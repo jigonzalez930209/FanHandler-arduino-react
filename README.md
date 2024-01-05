@@ -3,7 +3,11 @@
 The FanHandler Arduino React project combines Arduino and React to create a system for controlling a fan. The Arduino board is responsible for adjusting the fan speed, while the React application provides a user-friendly interface to monitor and control the fan settings.
 
 ## Features
-![image](https://github.com/jigonzalez930209/FanHandler-arduino-react/assets/56707603/e8744460-c44a-4b74-bc00-c5a3cee1accb)
+
+
+https://github.com/jigonzalez930209/FanHandler-arduino-react/assets/56707603/663229d4-0672-439c-9439-ed814e5b610b
+
+
 
 - Fan speed adjustment
 - User-friendly interface
